@@ -1,5 +1,5 @@
-<h1 align="center">Привет, я разработчик игр <b>XLATE</b> из <b>өchpo4mak prod.</b>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Привет, я разработчик игр <b>XLATE</b> из <b>өchpo4mak prod.</b>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="center">студент 3 курса Казанского техникума "Информационных технологий" — <a href="https://vk.com/ilyabudnik" target="_blank">Будник Илья</a></h3>
 <br>
 
